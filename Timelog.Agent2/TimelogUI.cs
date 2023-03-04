@@ -95,12 +95,13 @@ namespace Timelog.Agent
 
         private void AgentUI_Load(object sender, EventArgs e)
         {
-            label1.Text = "App Version 1.0.0.5";
+            CreateTextFile();
+            label1.Text = "App Version 1.0.0.6";
             label3.Text = "";
             Process aProcess = Process.GetCurrentProcess();
             string aProcName = aProcess.ProcessName;
 
-            CreateTextFile();
+            
 
             if (Process.GetProcessesByName(aProcName).Length > 1)
             {
