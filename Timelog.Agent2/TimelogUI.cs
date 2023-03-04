@@ -95,7 +95,8 @@ namespace Timelog.Agent
 
         private void AgentUI_Load(object sender, EventArgs e)
         {
-            label1.Text = "App Version 1.0.0.3";
+            label1.Text = "App Version 1.0.0.4";
+            label3.Text = "";
             Process aProcess = Process.GetCurrentProcess();
             string aProcName = aProcess.ProcessName;
 
@@ -601,6 +602,11 @@ namespace Timelog.Agent
 
         }
 
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
         private void notifyIcon_MouseDoubleClick(object sender, MouseEventArgs e)
         {
             //this.FormBorderStyle = FormBorderStyle.None;
@@ -671,6 +677,7 @@ namespace Timelog.Agent
                             getFormLoad();
                             tickTimeclock.Enabled = true;
                             cpbStatus.Text = "Running";
+                            label3.Text = "Connected";
 
                             if (Directory.Exists(strProcessedPath) && Directory.Exists(strUnProcessedPath) && Directory.Exists(strErrorsPath))
                             {
@@ -685,6 +692,7 @@ namespace Timelog.Agent
                     {
                         delay = 5;
                         cpbStatus.Text = "No Connection";
+                        label3.Text = "Request Timed Out";
                         isConnected = false;
                         CheckForInternetConnection();
                     }
@@ -693,6 +701,8 @@ namespace Timelog.Agent
                 {
                     delay = 5;
                     isConnected = false;
+                    cpbStatus.Text = "No Connection";
+                    label3.Text = "Ping Request could not find host";
                     CheckForInternetConnection();
                 }
             }
