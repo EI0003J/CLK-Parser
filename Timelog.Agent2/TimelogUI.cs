@@ -96,7 +96,7 @@ namespace Timelog.Agent
         private void AgentUI_Load(object sender, EventArgs e)
         {
             CreateTextFile();
-            label1.Text = "App Version 1.0.0.6";
+            label1.Text = "App Version 1.0.0.7";
             label3.Text = "";
             Process aProcess = Process.GetCurrentProcess();
             string aProcName = aProcess.ProcessName;
@@ -130,6 +130,12 @@ namespace Timelog.Agent
             if(!File.Exists(@"C:\empleyado\IPSettings.txt"))
             {
                 File.Create(@"C:\empleyado\IPSettings.txt");
+                TextWriter tw = new StreamWriter(@"C:\empleyado\IPSettings.txt");
+                tw.WriteLine("processrawlogs.empleyado.com");
+                tw.Close();
+            }
+            else
+            {
                 TextWriter tw = new StreamWriter(@"C:\empleyado\IPSettings.txt");
                 tw.WriteLine("processrawlogs.empleyado.com");
                 tw.Close();
