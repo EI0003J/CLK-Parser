@@ -655,7 +655,7 @@ namespace Timelog.Agent
                 url = row[0].ToString();
             }
 
-            
+            IP = url;
 
             if (delay <= 0)
             {
