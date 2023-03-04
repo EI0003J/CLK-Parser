@@ -936,3 +936,4 @@ D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\obj\Debug\Empl
 D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csproj.CopyComplete
 D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\obj\Debug\Empleyado CLK parser.exe
 D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\obj\Debug\Empleyado CLK parser.pdb
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\obj\Debug\Empleyado CLK parser.exe.config
