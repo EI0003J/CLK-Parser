@@ -325,7 +325,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(118, 15);
             this.label1.TabIndex = 28;
-            this.label1.Text = "App Version : 1.0.0.1";
+            this.label1.Text = "App Version : 1.0.0.2";
             // 
             // AgentUI
             // 
