@@ -95,10 +95,12 @@ namespace Timelog.Agent
 
         private void AgentUI_Load(object sender, EventArgs e)
         {
-            label1.Text = "App Version 1.0.0.4";
+            label1.Text = "App Version 1.0.0.5";
             label3.Text = "";
             Process aProcess = Process.GetCurrentProcess();
             string aProcName = aProcess.ProcessName;
+
+            CreateTextFile();
 
             if (Process.GetProcessesByName(aProcName).Length > 1)
             {
@@ -122,6 +124,16 @@ namespace Timelog.Agent
             
         }
 
+        public void CreateTextFile()
+        {
+            if(!File.Exists(@"C:\empleyado\IPSettings.txt"))
+            {
+                File.Create(@"C:\empleyado\IPSettings.txt");
+                TextWriter tw = new StreamWriter(@"C:\empleyado\IPSettings.txt");
+                tw.WriteLine("processrawlogs.empleyado.com");
+                tw.Close();
+            }
+        }
         protected override CreateParams CreateParams
         {
             get
