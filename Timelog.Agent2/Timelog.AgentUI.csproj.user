@@ -4,7 +4,7 @@
     <PublishUrlHistory>D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\published\|C:\Users\COGNITIF\Desktop\711BackUp\</PublishUrlHistory>
     <InstallUrlHistory>https://raw.githubusercontent.com/EI0003J/CLK-Parser/main/published/</InstallUrlHistory>
     <SupportUrlHistory />
-    <UpdateUrlHistory />
+    <UpdateUrlHistory>https://raw.githubusercontent.com/EI0003J/CLK-Parser/main/published/</UpdateUrlHistory>
     <BootstrapperUrlHistory />
     <ErrorReportUrlHistory />
     <FallbackCulture>en-US</FallbackCulture>
