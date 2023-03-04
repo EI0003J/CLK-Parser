@@ -878,3 +878,61 @@ D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2
 D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csproj.CopyComplete
 D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Empleyado CLK parser.exe
 D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Empleyado CLK parser.pdb
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\appsettings.json
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\Empleyado CLK parser.exe.config
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\Empleyado CLK parser.exe.manifest
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\Empleyado CLK parser.application
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\Empleyado CLK parser.exe
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\Empleyado CLK parser.pdb
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\AutoUpdater.NET.dll
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\CircularProgressBar.dll
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\System.Buffers.dll
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\System.Memory.dll
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\System.Numerics.Vectors.dll
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\System.Text.Encodings.Web.dll
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\System.Text.Json.dll
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\System.ValueTuple.dll
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\WinFormAnimation.dll
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\AutoUpdater.NET.pdb
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\AutoUpdater.NET.xml
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\System.Buffers.xml
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\System.Memory.xml
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\System.Numerics.Vectors.xml
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\System.Text.Encodings.Web.xml
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\System.Text.Json.xml
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\bin\Debug\System.ValueTuple.xml
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csprojAssemblyReference.cache
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\obj\Debug\Timelog.Agent2.PasswordForm.resources
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\obj\Debug\Timelog.Agent.AgentUI.resources
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\obj\Debug\System.Agent.Properties.Resources.resources
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csproj.GenerateResource.cache
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\obj\Debug\Empleyado CLK parser.exe.manifest
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\obj\Debug\Empleyado CLK parser.application
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csproj.CopyComplete
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\obj\Debug\Empleyado CLK parser.exe
+D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\Timelog.Agent2\obj\Debug\Empleyado CLK parser.pdb
