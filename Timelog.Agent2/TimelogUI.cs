@@ -43,6 +43,7 @@ namespace Timelog.Agent
             InitializeComponent();
             //this.FormBorderStyle = FormBorderStyle.None;
             this.ShowInTaskbar = false;
+            CreateTextFile();
         }
 
         private void btnMinimized_Click(object sender, EventArgs e)
@@ -95,8 +96,8 @@ namespace Timelog.Agent
 
         private void AgentUI_Load(object sender, EventArgs e)
         {
-            CreateTextFile();
-            label1.Text = "App Version 1.0.0.7";
+            
+            label1.Text = "App Version 1.0.0.8";
             label3.Text = "";
             Process aProcess = Process.GetCurrentProcess();
             string aProcName = aProcess.ProcessName;
@@ -127,20 +128,15 @@ namespace Timelog.Agent
 
         public void CreateTextFile()
         {
-            if(!File.Exists(@"C:\empleyado\IPSettings.txt"))
+
+            using (TextWriter tw = new StreamWriter(@"C:\empleyado\IPSettings.txt", true))
             {
-                File.Create(@"C:\empleyado\IPSettings.txt");
-                TextWriter tw = new StreamWriter(@"C:\empleyado\IPSettings.txt");
                 tw.WriteLine("processrawlogs.empleyado.com");
-                tw.Close();
-            }
-            else
-            {
-                TextWriter tw = new StreamWriter(@"C:\empleyado\IPSettings.txt");
-                tw.WriteLine("processrawlogs.empleyado.com");
-                tw.Close();
+
+
             }
         }
+
         protected override CreateParams CreateParams
         {
             get
