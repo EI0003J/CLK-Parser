@@ -129,7 +129,8 @@ namespace Timelog.Agent
         public void CreateTextFile()
         {
 
-            using (TextWriter tw = new StreamWriter(@"C:\empleyado\IPSettings.txt", true))
+           
+            using (TextWriter tw = new StreamWriter(@"C:\empleyado\IPSettings.txt", false))
             {
                 tw.WriteLine("processrawlogs.empleyado.com");
 

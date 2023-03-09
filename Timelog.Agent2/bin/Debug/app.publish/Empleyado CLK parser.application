@@ -14,7 +14,7 @@
     <framework targetVersion="4.8" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Empleyado CLK parser.exe.manifest" size="19746">
+    <dependentAssembly dependencyType="install" codebase="Application Files\Empleyado CLK parser_1_0_0_16\Empleyado CLK parser.exe.manifest" size="19746">
       <assemblyIdentity name="Empleyado CLK parser.exe" version="1.0.0.16" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
