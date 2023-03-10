@@ -25,7 +25,7 @@
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
     <InstallUrl>http://raw.githubusercontent.com/EI0003J/CLK-Parser/main/published/</InstallUrl>
-    <UpdateUrl>https://raw.githubusercontent.com/EI0003J/CLK-Parser/main/published/</UpdateUrl>
+    <UpdateUrl>http://raw.githubusercontent.com/EI0003J/CLK-Parser/main/published/</UpdateUrl>
     <ProductName>Empleyado CLK parser</ProductName>
     <PublisherName>Empleyado</PublisherName>
     <ApplicationRevision>19</ApplicationRevision>
