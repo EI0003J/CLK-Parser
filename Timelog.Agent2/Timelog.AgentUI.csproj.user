@@ -2,9 +2,9 @@
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <PublishUrlHistory>D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\published\|C:\Users\COGNITIF\Desktop\711BackUp\</PublishUrlHistory>
-    <InstallUrlHistory>http://raw.githubusercontent.com/EI0003J/CLK-Parser/main/published/|https://raw.githubusercontent.com/EI0003J/CLK-Parser/main/published/</InstallUrlHistory>
+    <InstallUrlHistory>https://raw.githubusercontent.com/EI0003J/CLK-Parser/main/published/|http://raw.githubusercontent.com/EI0003J/CLK-Parser/main/published/</InstallUrlHistory>
     <SupportUrlHistory />
-    <UpdateUrlHistory>https://raw.githubusercontent.com/EI0003J/CLK-Parser/main/published/</UpdateUrlHistory>
+    <UpdateUrlHistory>http://raw.githubusercontent.com/EI0003J/CLK-Parser/main/published/|https://raw.githubusercontent.com/EI0003J/CLK-Parser/main/published/</UpdateUrlHistory>
     <BootstrapperUrlHistory />
     <ErrorReportUrlHistory />
     <FallbackCulture>en-US</FallbackCulture>
