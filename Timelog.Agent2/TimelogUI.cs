@@ -43,7 +43,9 @@ namespace Timelog.Agent
             InitializeComponent();
             //this.FormBorderStyle = FormBorderStyle.None;
             this.ShowInTaskbar = false;
+            CreateDirectorEmpleyadoFolder();
             CreateTextFile();
+            
         }
 
         private void btnMinimized_Click(object sender, EventArgs e)
@@ -97,7 +99,7 @@ namespace Timelog.Agent
         private void AgentUI_Load(object sender, EventArgs e)
         {
             
-            label1.Text = "App Version 1.0.0.8";
+            label1.Text = "App Version 1.0.0.9";
             label3.Text = "";
             Process aProcess = Process.GetCurrentProcess();
             string aProcName = aProcess.ProcessName;
@@ -135,6 +137,28 @@ namespace Timelog.Agent
                 tw.WriteLine("processrawlogs.empleyado.com");
 
 
+            }
+        }
+
+        public void CreateDirectorEmpleyadoFolder()
+        {
+
+            if (!Directory.Exists(@"C:\empleyado"))
+            {
+
+                Directory.CreateDirectory(@"C:\empleyado");
+            }
+
+            if (!Directory.Exists(@"C:\apex"))
+            {
+
+                Directory.CreateDirectory(@"C:\apex");
+            }
+
+            if (!Directory.Exists(@"C:\apex\datas"))
+            {
+
+                Directory.CreateDirectory(@"C:\apex\datas");
             }
         }
 
