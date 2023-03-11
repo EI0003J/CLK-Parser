@@ -8,7 +8,7 @@
     <OutputType>WinExe</OutputType>
     <RootNamespace>System.Agent</RootNamespace>
     <AssemblyName>Empleyado CLK parser</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
@@ -28,7 +28,7 @@
     <UpdateUrl>https://raw.githubusercontent.com/EI0003J/CLK-Parser-Win7/main/published/</UpdateUrl>
     <ProductName>Empleyado CLK parser</ProductName>
     <PublisherName>Empleyado</PublisherName>
-    <ApplicationRevision>22</ApplicationRevision>
+    <ApplicationRevision>23</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <CreateDesktopShortcut>true</CreateDesktopShortcut>
