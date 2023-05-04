@@ -99,7 +99,7 @@ namespace Timelog.Agent
         private void AgentUI_Load(object sender, EventArgs e)
         {
             
-            label1.Text = "App Version 1.0.0.9";
+            label1.Text = "App Version 1.0.0.10";
             label3.Text = "";
             Process aProcess = Process.GetCurrentProcess();
             string aProcName = aProcess.ProcessName;
@@ -134,7 +134,7 @@ namespace Timelog.Agent
            
             using (TextWriter tw = new StreamWriter(@"C:\empleyado\IPSettings.txt", false))
             {
-                tw.WriteLine("processrawlogs.empleyado.com");
+                tw.WriteLine("https://processrawlogs.empleyado.com/api/AttLogs/InsertAttLogs");
 
 
             }
@@ -702,14 +702,14 @@ namespace Timelog.Agent
                 try
                 {
                                     
-                    Ping p = new Ping();
-                    PingReply r;
-                    string s;
-                    s = IP;
-                    r = p.Send(s);
+                    //Ping p = new Ping();
+                    //PingReply r;
+                    //string s;
+                    //s = IP;
+                    //r = p.Send(s);
 
-                    if (r.Status == IPStatus.Success)
-                    {
+                    //if (r.Status == IPStatus.Success)
+                    //{
                         //MessageBox.Show("connection established");
                         isConnected = true;
                         if (isConnected == true)
@@ -727,15 +727,15 @@ namespace Timelog.Agent
                             getFormLoad();
                         }
                         delay = 5;
-                    }
-                    else
-                    {
-                        delay = 5;
-                        cpbStatus.Text = "No Connection";
-                        label3.Text = "Request Timed Out";
-                        isConnected = false;
-                        CheckForInternetConnection();
-                    }
+                    //}
+                    //else
+                    //{
+                    //    delay = 5;
+                    //    cpbStatus.Text = "No Connection";
+                    //    label3.Text = "Request Timed Out";
+                    //    isConnected = false;
+                    //    CheckForInternetConnection();
+                    //}
                 }
                 catch (Exception ex)
                 {
